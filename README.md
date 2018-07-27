@@ -1,3 +1,7 @@
+# Note about this fork
+Please read this PR to understand why this exists: https://github.com/kesha-antonov/jekyll-slim/pull/1
+
+
 # Jekyll-slim
 
 [![Gem Version](http://img.shields.io/gem/v/jekyll-slim.svg?style=flat)](#)
